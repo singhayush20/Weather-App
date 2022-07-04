@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#1B1B1B</color>
+    <color name="colorPrimaryLight">#323233</color>
+    <color name="colorAccent">#689F38</color>
+
+    <color name="detail_accent_pane_background">#1B1B1B</color>
+    <color name="detail_accent_label">#924A00</color>
+    <color name="activated">#E0E0E0</color>
+    <color name="primary_text">#BE8800</color>
+    <color name="secondary_text">#AFB42B</color>
+    <color name="today_weather_text_color">#924A00</color>
+    <color name="list_item_background">#363636</color>
+    <color name="statusBar">#000000</color>
+    <color name="today_weather_text_color_secondary">#AFB42B</color>
+    <color name="navigationBar">@color/black</color>
+    <color name="colorSettings_Primary">@color/black</color>
+    <color name="bg_gradient_color1">#040404</color>
+    <color name="bg_gradient_color2">#050505</color>
+</resources>
